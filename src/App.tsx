@@ -7,9 +7,9 @@ align-items: center;
 justify-content: top;
 min-height: 100vh;
 `
+// top: ${props => props.position*30}px;
 const Card = styled.div`
 position: absolute;
-top: ${props => props.position*30}px;
 width: 90vw;
 height: 70vh;
 background-color: ${props => props.color};
@@ -32,7 +32,7 @@ function App() {
     <Container>
       {cards.map((card,ind) => {
         return (
-          <Card key={card.title} color={card.color} position={ind}>{card.title}</Card>
+          <Card key={card.title} color={card.color} >{card.title}</Card>
         )
       })}
     </Container>
