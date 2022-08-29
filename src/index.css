@@ -8,6 +8,7 @@ html, body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #282c34;
 }
 
 code {
@@ -19,5 +20,15 @@ code {
   text-align: center;
   min-height: 100vh;
   min-width: 100vw;
-  background-color: #282c34;
+}
+
+.overview .cardview {
+  display: block;
+  top: 40px;
+  height: 60vh;
+  border-radius: 15px;
+}
+
+.overview .card {
+  display: none;
 }
