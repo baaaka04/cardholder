@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/cardholder/static/css/main.491002e1.css",
-    "main.js": "/cardholder/static/js/main.8a6b1a9b.js",
+    "main.js": "/cardholder/static/js/main.7ee2a983.js",
     "static/js/787.4696341e.chunk.js": "/cardholder/static/js/787.4696341e.chunk.js",
+    "static/media/detskyimir.jpg": "/cardholder/static/media/detskyimir.01e853dc0ffc2171ce52.jpg",
     "static/media/vernyi.jpg": "/cardholder/static/media/vernyi.913253086ddfe575feed.jpg",
     "service-worker.js": "/cardholder/service-worker.js",
     "static/media/diksi.jpg": "/cardholder/static/media/diksi.0791b7a8180775008c3b.jpg",
@@ -15,13 +16,15 @@
     "static/media/metro.jpg": "/cardholder/static/media/metro.d79ec5499172fee2d77d.jpg",
     "static/media/okey.jpg": "/cardholder/static/media/okey.d1a985e2fc853e0ddf2b.jpg",
     "static/media/perekrestok.jpg": "/cardholder/static/media/perekrestok.17b79184dfa1bad5dda5.jpg",
+    "static/media/letual.jpg": "/cardholder/static/media/letual.6fa486a02f12b317e1f8.jpg",
+    "static/media/mvideo.jpg": "/cardholder/static/media/mvideo.421643af668a348de7ef.jpg",
     "index.html": "/cardholder/index.html",
     "main.491002e1.css.map": "/cardholder/static/css/main.491002e1.css.map",
-    "main.8a6b1a9b.js.map": "/cardholder/static/js/main.8a6b1a9b.js.map",
+    "main.7ee2a983.js.map": "/cardholder/static/js/main.7ee2a983.js.map",
     "787.4696341e.chunk.js.map": "/cardholder/static/js/787.4696341e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.491002e1.css",
-    "static/js/main.8a6b1a9b.js"
+    "static/js/main.7ee2a983.js"
   ]
 }
