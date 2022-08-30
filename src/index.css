@@ -8,7 +8,6 @@ html, body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #282c34;
 }
 
 code {
@@ -26,9 +25,14 @@ code {
   display: block;
   top: 40px;
   height: 60vh;
+  max-height: 520px;
   border-radius: 15px;
 }
 
 .overview .card {
   display: none;
+}
+
+.dark {
+  background-color: #282c34;
 }
