@@ -12,6 +12,7 @@ import vinlabJPG from './images/vinlab.jpg'
 import detskyimirKPG from './images/detskyimir.jpg'
 import mvideoJPG from './images/mvideo.jpg'
 import letualJPG from './images/letual.jpg'
+import globusJPG from './images/globus.jpg'
 
 
 export const lcard = {
@@ -98,5 +99,11 @@ export const cards = [
         color: '#d8c364',
         barcode: letualJPG,
         font: '#014184',
+    },
+    {
+        title: "Глобус",
+        color: '#f9b001',
+        barcode: globusJPG,
+        font: '#bf4206',
     },
 ]
