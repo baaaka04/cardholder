@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.491002e1.css",
+    "main.js": "/static/js/main.13602e46.js",
+    "static/js/787.4696341e.chunk.js": "/static/js/787.4696341e.chunk.js",
+    "static/media/vernyi.jpg": "/static/media/vernyi.913253086ddfe575feed.jpg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/diksi.jpg": "/static/media/diksi.0791b7a8180775008c3b.jpg",
+    "static/media/miratorg.jpg": "/static/media/miratorg.0fcbc6ec5fd3618a69ba.jpg",
+    "static/media/spar.jpg": "/static/media/spar.fbfed5706439972be0ff.jpg",
+    "static/media/vinlab.jpg": "/static/media/vinlab.fc244f65724deedc0aa0.jpg",
+    "static/media/hm.jpg": "/static/media/hm.b73a8bc1da351a437e59.jpg",
+    "static/media/pyaterka.jpg": "/static/media/pyaterka.72dabe00583d732e240d.jpg",
+    "static/media/lenta.jpg": "/static/media/lenta.70a73a011e7cb84730b4.jpg",
+    "static/media/metro.jpg": "/static/media/metro.d79ec5499172fee2d77d.jpg",
+    "static/media/okey.jpg": "/static/media/okey.d1a985e2fc853e0ddf2b.jpg",
+    "static/media/perekrestok.jpg": "/static/media/perekrestok.17b79184dfa1bad5dda5.jpg",
+    "index.html": "/index.html",
+    "main.491002e1.css.map": "/static/css/main.491002e1.css.map",
+    "main.13602e46.js.map": "/static/js/main.13602e46.js.map",
+    "787.4696341e.chunk.js.map": "/static/js/787.4696341e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491002e1.css",
+    "static/js/main.13602e46.js"
+  ]
+}
