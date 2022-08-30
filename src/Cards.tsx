@@ -9,6 +9,9 @@ import lentaJPG from './images/lenta.jpg'
 import perekrestokJPG from './images/perekrestok.jpg'
 import pyaterkaJPG from './images/pyaterka.jpg'
 import vinlabJPG from './images/vinlab.jpg'
+import detskyimirKPG from './images/detskyimir.jpg'
+import mvideoJPG from './images/mvideo.jpg'
+import letualJPG from './images/letual.jpg'
 
 
 export const lcard = {
@@ -37,7 +40,7 @@ export const cards = [
         font: '#3e0000',
     },
     {
-        title: 'Metro',
+        title: 'МЕТРО',
         color: '#1a3c7b',
         barcode: metroJPG,
         font: '#f1d500',
@@ -77,5 +80,23 @@ export const cards = [
         color: '#282b33',
         barcode: vinlabJPG,
         font: 'white',
+    },
+    {
+        title: 'Детский мир',
+        color: '#0073e5',
+        barcode: detskyimirKPG,
+        font: 'white',
+    },
+    {
+        title: 'М.Видео',
+        color: '#ed1c24',
+        barcode: mvideoJPG,
+        font: 'white',
+    },
+    {
+        title: "Л'Этуаль",
+        color: '#d8c364',
+        barcode: letualJPG,
+        font: '#014184',
     },
 ]

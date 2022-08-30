@@ -70,6 +70,7 @@ box-shadow: 0 10px ${props => props.color};
 border: 1px solid gray;
 border-bottom: 0;
 border-radius: 15px 15px 0 0;
+transition: all 0.3s ease;
 `
 const LastCard = styled(Card)`
 height: 60vh;
