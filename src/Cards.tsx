@@ -14,13 +14,6 @@ import mvideoJPG from './images/mvideo.jpg'
 import letualJPG from './images/letual.jpg'
 import globusJPG from './images/globus.jpg'
 
-
-export const lcard = {
-    title: 'Лента',
-    color: '#253c88',
-    barcode: lentaJPG,
-    font: '#f1d613',
-}
 export const cards = [
     {
         title: 'Дикси',
@@ -105,5 +98,11 @@ export const cards = [
         color: '#f9b001',
         barcode: globusJPG,
         font: '#bf4206',
+    },
+    {
+        title: 'Лента',
+        color: '#253c88',
+        barcode: lentaJPG,
+        font: '#f1d613',
     },
 ]

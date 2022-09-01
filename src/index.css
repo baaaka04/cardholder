@@ -30,7 +30,7 @@ code {
 }
 
 .overview .card {
-  display: none;
+  top: 100%;
 }
 
 .dark {
