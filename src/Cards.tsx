@@ -7,13 +7,14 @@ import hmJPG from './images/barcodes/hm.jpg'
 import okeyJPG from './images/barcodes/okey.jpg'
 import lentaJPG from './images/barcodes/lenta.jpg'
 import perekrestokJPG from './images/barcodes/perekrestok.jpg'
-import pyaterkaJPG from './images/barcodes/pyaterka.jpg'
+import x5retailJPG from './images/barcodes/x5retail.jpg'
 import vinlabJPG from './images/barcodes/vinlab.jpg'
 import detskyimirKPG from './images/barcodes/detskyimir.jpg'
 import mvideoJPG from './images/barcodes/mvideo.jpg'
 import letualJPG from './images/barcodes/letual.jpg'
 import globusJPG from './images/barcodes/globus.jpg'
 import magnitJPG from './images/barcodes/magnit.jpg'
+import fixpriceJPG from './images/barcodes/fixprice.jpg'
 
 //logo
 import diksiLogo from './images/logo/diksi.png'
@@ -24,7 +25,7 @@ import sparLogo from './images/logo/spar.jpg'
 import okeyLogo from './images/logo/okey.png'
 import miratorgLogo from './images/logo/miratorg.png'
 import perekrestokLogo from './images/logo/perekrestok.png'
-import pyaterkaLogo from './images/logo/pyaterka.png'
+import x5retailLogo from './images/logo/x5retail.jpg'
 import winelabLogo from './images/logo/winelab.png'
 import detmirLogo from './images/logo/detmir.png'
 import mvideoLogo from './images/logo/mvideo.jpg'
@@ -32,6 +33,7 @@ import letaulLogo from './images/logo/letual.jpg'
 import globusLogo from './images/logo/globus.png'
 import lentaLogo from './images/logo/lenta.jpg'
 import magnitLogo from './images/logo/magnit.jpg'
+import fixpriceLogo from './images/logo/fixprice.png'
 
 export const cards = [
     {
@@ -46,6 +48,13 @@ export const cards = [
         color: '#e01e27',
         barcode: vernyiJPG,
         logo: vernyiLogo,
+        font: 'white',
+    },
+    {
+        title: 'X5 Retail Group',
+        color: '#5faf2d',
+        barcode: x5retailJPG,
+        logo: x5retailLogo,
         font: 'white',
     },
     {
@@ -98,13 +107,6 @@ export const cards = [
         font: 'white',
     },
     {
-        title: 'Пятерочка',
-        color: '#e22b22',
-        barcode: pyaterkaJPG,
-        logo: pyaterkaLogo,
-        font: 'white',
-    },
-    {
         title: 'Winelab | ВИНЛАБ',
         color: '#282b33',
         barcode: vinlabJPG,
@@ -138,6 +140,13 @@ export const cards = [
         barcode: globusJPG,
         logo: globusLogo,
         font: '#bf4206',
+    },
+    {
+        title: "Fix Price",
+        color: '#93c01d',
+        barcode: fixpriceJPG,
+        logo: fixpriceLogo,
+        font: '#144193',
     },
     {
         title: 'Лента',
