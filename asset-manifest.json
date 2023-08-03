@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/cardholder/static/css/main.7161135a.css",
-    "main.js": "/cardholder/static/js/main.e679cb74.js",
+    "main.js": "/cardholder/static/js/main.3ebd77ab.js",
     "static/js/787.4696341e.chunk.js": "/cardholder/static/js/787.4696341e.chunk.js",
+    "static/media/palich.png": "/cardholder/static/media/palich.ab8802b9176d1338fc14.png",
     "static/media/detskyimir.jpg": "/cardholder/static/media/detskyimir.01e853dc0ffc2171ce52.jpg",
     "static/media/x5retail.jpg": "/cardholder/static/media/x5retail.bba89b79f6b70bdb3c52.jpg",
     "static/media/winelab.png": "/cardholder/static/media/winelab.e5d924e08fe9b58b9b43.png",
@@ -19,9 +20,12 @@
     "static/media/lenta.jpg": "/cardholder/static/media/lenta.1292312c43754aca8c6f.jpg",
     "static/media/metro.jpg": "/cardholder/static/media/metro.d79ec5499172fee2d77d.jpg",
     "static/media/globus.jpg": "/cardholder/static/media/globus.32750c49765bcd9849c8.jpg",
+    "static/media/palich.jpg": "/cardholder/static/media/palich.51be844cf71855716803.jpg",
     "static/media/globus.png": "/cardholder/static/media/globus.4dcc463299598adf3afa.png",
     "static/media/miratorg.png": "/cardholder/static/media/miratorg.eb25094361c5eddfd617.png",
     "static/media/okey.jpg": "/cardholder/static/media/okey.d1a985e2fc853e0ddf2b.jpg",
+    "static/media/sirota.png": "/cardholder/static/media/sirota.4c27d6af46418132837a.png",
+    "static/media/sirota.jpg": "/cardholder/static/media/sirota.4cfb44d5f7cd96c659d8.jpg",
     "static/media/vernyi.png": "/cardholder/static/media/vernyi.54ebdc8c280e3ac6abe9.png",
     "static/media/letual.jpg": "/cardholder/static/media/letual.99a8337445117dda94de.jpg",
     "static/media/mvideo.jpg": "/cardholder/static/media/mvideo.421643af668a348de7ef.jpg",
@@ -30,11 +34,11 @@
     "static/media/okey.png": "/cardholder/static/media/okey.5b79451c7b51ced5ffc1.png",
     "index.html": "/cardholder/index.html",
     "main.7161135a.css.map": "/cardholder/static/css/main.7161135a.css.map",
-    "main.e679cb74.js.map": "/cardholder/static/js/main.e679cb74.js.map",
+    "main.3ebd77ab.js.map": "/cardholder/static/js/main.3ebd77ab.js.map",
     "787.4696341e.chunk.js.map": "/cardholder/static/js/787.4696341e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7161135a.css",
-    "static/js/main.e679cb74.js"
+    "static/js/main.3ebd77ab.js"
   ]
 }
