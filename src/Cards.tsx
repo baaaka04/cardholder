@@ -15,6 +15,8 @@ import letualJPG from './images/barcodes/letual.jpg'
 import globusJPG from './images/barcodes/globus.jpg'
 import magnitJPG from './images/barcodes/magnit.jpg'
 import fixpriceJPG from './images/barcodes/fixprice.jpg'
+import sirotaJPG from './images/barcodes/sirota.jpg'
+import palichJPG from './images/barcodes/palich.jpg'
 
 //logo
 import diksiLogo from './images/logo/diksi.png'
@@ -34,6 +36,8 @@ import globusLogo from './images/logo/globus.png'
 import lentaLogo from './images/logo/lenta.jpg'
 import magnitLogo from './images/logo/magnit.jpg'
 import fixpriceLogo from './images/logo/fixprice.png'
+import sirotaLogo from './images/logo/sirota.png'
+import palichLogo from './images/logo/palich.png'
 
 export const cards = [
     {
@@ -79,6 +83,13 @@ export const cards = [
         font: 'white',
     },
     {
+        title: 'Сыроварня Олега Сироты',
+        color: '#50af1a',
+        barcode: sirotaJPG,
+        logo: sirotaLogo,
+        font: 'white',
+    },
+    {
         title: "O'KEY",
         color: 'gold',
         barcode: okeyJPG,
@@ -97,6 +108,13 @@ export const cards = [
         color: '#77bb02',
         barcode: miratorgJPG,
         logo: miratorgLogo,
+        font: 'white',
+    },
+    {
+        title: 'У Палыча',
+        color: '#96062b',
+        barcode: palichJPG,
+        logo: palichLogo,
         font: 'white',
     },
     {
